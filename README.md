@@ -22,10 +22,10 @@ A simple **Tkinter file dialog** lets you select any `.mp4`, `.avi`, `.mov`, or 
 
 ## 📂 Repository Structure
 
-- 📦 lane-detection
-- ┣ 📜 lane detection.py # Main Python script
-- ┣ 📜 README.md # Project documentation
-- ┗ 📜 LICENSE # MIT License
+📦 lane-detection
+┣ 📜 lane detection.py # Main Python script
+┣ 📜 README.md # Project documentation
+┗ 📜 LICENSE # MIT License
 
 
 ---
