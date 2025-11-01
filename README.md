@@ -78,11 +78,12 @@ python "lane detection.py"
 
 ---
 
-```markdown
 ## ⚠️ Known Limitations
 - May occasionally detect **extra or incorrect lines** under poor lighting, shadows, or rainy conditions.  
 - Optimized primarily for **daytime driving videos** with clear lane markings.  
 - Does not currently handle **curved lanes** or **complex multi-lane highways** accurately.
+
+---
 
 ## 🧭 Future Improvements
 - 🎨 Add **color-based filtering** to improve accuracy under varying light conditions.  
@@ -90,15 +91,21 @@ python "lane detection.py"
 - 🧠 Explore **deep learning-based segmentation models** for more robust detection.  
 - 🎥 Add support for **live camera input** to make it truly real-time.
 
+---
+
 ## 🪪 License
 This project is licensed under the **MIT License**.  
 You are free to use, modify, and distribute this project with proper attribution.  
 See the [LICENSE](./LICENSE) file for full details.
 
+---
+
 ## 👨‍💻 Author
 **Rahul Bansal**  
 💻 Python & OpenCV Enthusiast | 🧠 Computer Vision Learner  
 📷 *Lane Detection using OpenCV — built for practice, performance, and precision.*
+
+---
 
 ## 🌟 Support the Project
 
